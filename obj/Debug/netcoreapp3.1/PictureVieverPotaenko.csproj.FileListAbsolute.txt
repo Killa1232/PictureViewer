@@ -1,0 +1,16 @@
+C:\Users\29363714\source\repos\PictureVieverPotaenko\bin\Debug\netcoreapp3.1\PictureVieverPotaenko.exe
+C:\Users\29363714\source\repos\PictureVieverPotaenko\bin\Debug\netcoreapp3.1\PictureVieverPotaenko.deps.json
+C:\Users\29363714\source\repos\PictureVieverPotaenko\bin\Debug\netcoreapp3.1\PictureVieverPotaenko.runtimeconfig.json
+C:\Users\29363714\source\repos\PictureVieverPotaenko\bin\Debug\netcoreapp3.1\PictureVieverPotaenko.runtimeconfig.dev.json
+C:\Users\29363714\source\repos\PictureVieverPotaenko\bin\Debug\netcoreapp3.1\PictureVieverPotaenko.dll
+C:\Users\29363714\source\repos\PictureVieverPotaenko\bin\Debug\netcoreapp3.1\PictureVieverPotaenko.pdb
+C:\Users\29363714\source\repos\PictureVieverPotaenko\obj\Debug\netcoreapp3.1\PictureVieverPotaenko.csproj.AssemblyReference.cache
+C:\Users\29363714\source\repos\PictureVieverPotaenko\obj\Debug\netcoreapp3.1\PictureVieverPotaenko.Form1.resources
+C:\Users\29363714\source\repos\PictureVieverPotaenko\obj\Debug\netcoreapp3.1\PictureVieverPotaenko.csproj.GenerateResource.cache
+C:\Users\29363714\source\repos\PictureVieverPotaenko\obj\Debug\netcoreapp3.1\PictureVieverPotaenko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\29363714\source\repos\PictureVieverPotaenko\obj\Debug\netcoreapp3.1\PictureVieverPotaenko.AssemblyInfoInputs.cache
+C:\Users\29363714\source\repos\PictureVieverPotaenko\obj\Debug\netcoreapp3.1\PictureVieverPotaenko.AssemblyInfo.cs
+C:\Users\29363714\source\repos\PictureVieverPotaenko\obj\Debug\netcoreapp3.1\PictureVieverPotaenko.csproj.CoreCompileInputs.cache
+C:\Users\29363714\source\repos\PictureVieverPotaenko\obj\Debug\netcoreapp3.1\PictureVieverPotaenko.dll
+C:\Users\29363714\source\repos\PictureVieverPotaenko\obj\Debug\netcoreapp3.1\PictureVieverPotaenko.pdb
+C:\Users\29363714\source\repos\PictureVieverPotaenko\obj\Debug\netcoreapp3.1\PictureVieverPotaenko.genruntimeconfig.cache
